@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------
-# Authors: Kurt Brown and Andrew Jacob
+# Authors: Kurt Brown 
 # Date: July 11, 2023
 #
 # This module calculates and displays billing information
