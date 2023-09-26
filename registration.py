@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------
-# Authors: Kurt Brown and Andrew Jacob
+# Authors: Kurt Brown
 # Date: July 12, 2023
 #
 # This program creates a class registration system.  It allows
